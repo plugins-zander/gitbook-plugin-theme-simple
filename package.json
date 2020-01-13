@@ -11,6 +11,7 @@
     "browserify": "13.1.0",
     "eslint": "3.6.1",
     "font-awesome": "4.6.3",
+    "preboot": "git+https://github.com/plugins-zander/preboot.git",
     "gitbook-logos": "git+https://github.com/plugins-zander/gitbook-logos.git",
     "gitbook-markdown-css": "1.0.1",
     "jquery": "3.1.1",
